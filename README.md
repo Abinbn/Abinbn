@@ -35,19 +35,19 @@
 <a href="https://dev.to/abinbn" target="blank" style="text-decoration:none;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abirtx" height="30" width="40" />
 </a>
-<a href="https://twitter.com/abir_tx" target="blank" style="text-decoration:none;">
+<a href="https://twitter.com/Abin_bn" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abir_tx" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/mushfiqur-rahman-abir" target="blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/abin-b-n-3386bb189/" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mushfiqur-rahman-abir" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/13353813" target="blank" style="text-decoration:none;">
+<a href="https://stackoverflow.com/users/18152831" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13353813" height="30" width="40" />
 </a>
-<a href="https://fb.com/mushfiqurrohoman.abir" target="blank" style="text-decoration:none;">
+<a href="https://fb.com" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mushfiqurrohoman.abir" height="30" width="40" />
 </a>
-<a href="https://instagram.com/abir_tx" target="blank" style="text-decoration:none;">
+<a href="https://www.instagram.com/its_abin._/" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir_tx" height="30" width="40" />
 </a>
 
