@@ -31,7 +31,8 @@
 <h3 align="center">Join forces with me!</h3>
 <p align="center">
 <p align="center">
-<a href="https://dev.to/abirtx" target="blank" style="text-decoration:none;">
+	
+<a href="https://dev.to/abinbn" target="blank" style="text-decoration:none;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abirtx" height="30" width="40" />
 </a>
 <a href="https://twitter.com/abir_tx" target="blank" style="text-decoration:none;">
@@ -51,8 +52,8 @@
 </a>
 
 
-<a href="https://auth.geeksforgeeks.org/user/mushfiqurrohomanabir" target="blank" style="text-decoration:none;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mushfiqurrohomanabir" height="30" width="40" />
+<a href="https://auth.geeksforgeeks.org/user/abinbn" target="blank" style="text-decoration:none;">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abinbn" height="30" width="40" />
 </a>
 </p>
 </br>
