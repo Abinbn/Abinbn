@@ -112,6 +112,13 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abinbn" alt="Abinbn" /></a></p>
 -->
 
-<p align="center">Show some ❤️ by starring some of the repositories!</p>
+<div align="center">
+ 
+ [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" width="150px" >](https://www.buymeacoffee.com/Abin)
+ 
+[![](https://visitcount.itsvg.in/api?id=madhav2008&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
+### Show some ❤️ somewhere around here.
+
 </div>
 
