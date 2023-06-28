@@ -5,7 +5,7 @@
 
 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👋Hello+everyone%2C+I+am+Abin+B+N)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FE3456&center=true&width=435&lines=I+am+Abin+B+N+%F0%9F%98%80;I+am+a+Web+designer+%F0%9F%92%BB;I+am+a+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I+am+a+Gamer+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <h3 align="center"> It me <b style="color:#fe3456;">A B I N . B . N</b> guys</h3>
 <br>
