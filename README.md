@@ -42,7 +42,7 @@
 <a href="https://stackoverflow.com/users/18152831" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18152831" height="30" width="40" />
 </a>
-<a href="https://fb.com" target="blank" style="text-decoration:none;">
+<a href="https://www.facebook.com/abin.jannath" target="blank" style="text-decoration:none;">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abinbn" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/its_abin._/" target="blank" style="text-decoration:none;">
@@ -116,7 +116,7 @@
  
  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" width="150px" >](https://www.buymeacoffee.com/Abin)
  
-[![](https://visitcount.itsvg.in/api?id=madhav2008&icon=0&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Abinbn&label=Profile%20Views&color=12&icon=2&pretty=true" /></a>
  
 ### Show some ❤️ somewhere around here.
 
