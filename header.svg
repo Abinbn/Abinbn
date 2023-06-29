@@ -128,7 +128,7 @@
 				.bear__ears .ear {
 					width: 50px;
 					height: 60px;
-					background: #000;
+					background: transparent;
 				}
 		
 				.bear__ears__left {
@@ -144,7 +144,7 @@
 				.bear__body {
 					width: 100%;
 					height: 230px;
-					background: #000;
+					background: transparent;
 					-webkit-border-radius: 50% / 40% 40% 60% 60%;
 					border-radius: 50% / 40% 40% 60% 60%;
 		
@@ -169,7 +169,7 @@
 		
 				.bear__eyes .eye {
 					width: 20px;
-					background: #fff;
+					background: transparent;
 					height: 15px;
 					position: absolute;
 					-webkit-border-radius: 50% / 40% 40% 60% 60%;
@@ -197,7 +197,7 @@
 		
 				.bear__nose {
 					width: 80px;
-					background: #fff;
+					background: transparent;
 					height: 100px;
 					margin: auto;
 					-webkit-transform: translateY(80px);
@@ -216,7 +216,7 @@
 				.bear__nose--inner {
 					width: 50px;
 					height: 26px;
-					background: #000;
+					background: transparent;
 					position: absolute;
 					top: 50%;
 					left: 50%;
@@ -233,7 +233,7 @@
 					content: "";
 					width: 20px;
 					height: 20px;
-					background: #000;
+					background: transparent;
 					position: absolute;
 					bottom: -6px;
 					left: 50%;
@@ -242,8 +242,8 @@
 					-webkit-transform: translate(-50%);
 					-ms-transform: translate(-50%);
 					transform: translate(-50%);
-					-webkit-box-shadow: 20px 5px 0 #fff, -20px 5px 0 #fff;
-					box-shadow: 20px 5px 0 #fff, -20px 5px 0 #fff;
+					-webkit-box-shadow: transparent;
+					box-shadow: transparent;
 				}
 		
 				.shadow {
@@ -251,7 +251,7 @@
 					height: 30px;
 					margin: auto;
 					margin-top: -20px;
-					background: #000;
+					background:transparent;
 					opacity: .6;
 					display: block;
 					-webkit-border-radius: 100%;
@@ -365,11 +365,14 @@
 			</style>
 			<div class="container">
 				<h1>
-					Awesome-CS-Books-and-Digests
+					Welcome to My Git Profile
 				</h1>
-				<p>
-					优秀计算机科学与技术领域相关的书籍归档，以及我的读书笔记
-				</p>
+				
+			<!--	<p>
+				
+				</p> -->
+
+				
 			</div>
 
 			<div class="bear">
@@ -385,8 +388,9 @@
 					<div class="bear__nose">
 						<div class="bear__nose--inner"></div>
 					</div>
-				</div>
+				</div> 
 			</div>
+			
 
 
 		</div>
