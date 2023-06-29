@@ -1,10 +1,6 @@
 <html>
 	<head>
-	</head>
-	<body>
-<svg>
-<div class="container">
-				<style>
+		<style>
                     @keyframes rotate {
 					0% {
 						transform: rotate(3deg);
@@ -95,6 +91,12 @@ p {
 
 
 </style>
+	</head>
+	<body>
+<svg>
+
+				
+	<div class="container">
                 <h1>
 					Awesome-CS-Books-and-Digests
 				</h1>
