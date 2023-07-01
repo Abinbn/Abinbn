@@ -6,11 +6,9 @@
 --->
 
 
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Welcome+all+to+my+Git+Profile+%F0%9F%92%BB)](https://git.io/typing-svg)
+[<img src="https://github.com/Abinbn/Abinbn/blob/997fc13986501b67a8f59f30f0a59e37d691fb12/abin.svg"/>](www.#.com)
 
 
-<h3 align="center"> It me <b style="color:#fe3456;">A B I N . B . N</b> guys</h3>
 <br>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Abinbn&label=Profile%20views&color=0e75b6&style=flat" alt="Abinbn" />
