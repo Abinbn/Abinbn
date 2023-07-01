@@ -6,10 +6,6 @@
 --->
 
 
-[<img src="https://github.com/Abinbn/Abinbn/blob/3fb9ec2dc18efda72bf69da79e84af065d245272/abin.svg"/>](www.#.com)
-
-
-<br>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Abinbn&label=Profile%20views&color=0e75b6&style=flat" alt="Abinbn" />
 </p> 
@@ -133,13 +129,24 @@
 <div align="center">
  
  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" width="150px" >](https://www.buymeacoffee.com/Abin)
+
+
  
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Abinbn&label=Profile%20Views&color=12&icon=2&pretty=true" /></a>
+
  
 ### Show some ❤️ somewhere around here.
+
+
+
+[<img src="https://github.com/Abinbn/Abinbn/blob/0c9254f508dd56d44e3b309e3b5c51dbcedabbfe/abin.svg"/>](www.#.com)
 
 </div>
 
 <!---
 text     00 hrs 00 min        ▓░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Abinbn&label=Profile%20Views&color=12&icon=2&pretty=true" /></a>
+
+
 --->
