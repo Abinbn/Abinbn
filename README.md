@@ -6,7 +6,7 @@
 --->
 
 
-[<img src="https://github.com/Abinbn/Abinbn/blob/997fc13986501b67a8f59f30f0a59e37d691fb12/abin.svg"/>](www.#.com)
+[<img src="https://github.com/Abinbn/Abinbn/blob/3fb9ec2dc18efda72bf69da79e84af065d245272/abin.svg"/>](www.#.com)
 
 
 <br>
