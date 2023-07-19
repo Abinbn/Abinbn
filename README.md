@@ -141,12 +141,14 @@ OR
 
 
 
-[<img src="https://github.com/Abinbn/Abinbn/blob/0c9254f508dd56d44e3b309e3b5c51dbcedabbfe/abin.svg"/>](www.#.com)
+
 
 </div>
 
 <!---
 text     00 hrs 00 min        ▓░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+[<img src="https://github.com/Abinbn/Abinbn/blob/0c9254f508dd56d44e3b309e3b5c51dbcedabbfe/abin.svg"/>](www.#.com)
 
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Abinbn&label=Profile%20Views&color=12&icon=2&pretty=true" /></a>
