@@ -96,20 +96,14 @@
 </br>
 
 **<h4 align=center>📊 Weekly Progress</h4>**
-<!--START_SECTION:waka-->
 
-```txt
-			Html       6 hrs 12 min       ██████████████:::::::::::::   48.48 %
-			CSS        3 hrs 01 min       ████████████:::::::::::::::   38.72 %
-			JavaScript 0 hrs 47 min       ███::::::::::::::::::::::::   07.46 %
-			Python     1 hrs 15 min       █::::::::::::::::::::::::::   05.34 %       
-```
-
-
-<!--END_SECTION:waka-->
-
-
+<!--
 <br>
+<p align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinbn&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Abinbn" />
+</p>
+<br>
+-->
 <p align=center>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinbn&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Abinbn" />
 </p>
