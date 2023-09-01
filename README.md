@@ -129,7 +129,7 @@ OR
 ![image](https://github.com/Abinbn/Abinbn/assets/82628577/271eb202-f46c-480f-8d09-22559431618e)
 </p>
  --->
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1OTIZL)
  
 ### Show some ❤️ somewhere around here.
 
