@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on web design for [E-schoolBooks](e-schoolbooks.in)
-- 🔬 I'm currently pursuing my post-graduation in Bioinformatics.🧬
+- 🔬 I'm currently pursuing my post-graduation in Biotechnology.🧬
 - 🌱 I’m currently learning Python, Mysql, PHP and js 
 - 👯 I’m looking to collaborate on any work.💡
 - 🤔 I’m looking for help with Backend development.
