@@ -103,9 +103,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinbn&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Abinbn" />
 </p>
 <br>
--->
+
 <p align=center>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinbn&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Abinbn" />
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinbn&hide_progress=true)
 </p>
 
 <div style="text-align: center;">
@@ -113,6 +115,7 @@
 <p align=center>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abinbn&show_icons=true&theme=onedark&locale=en" alt="Abinbn" />
 </p>
+-->
 <p align=center>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinbn&" alt="Abinbn" />
 </p>
