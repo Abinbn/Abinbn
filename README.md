@@ -1,7 +1,12 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Abin B N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abinbn&label=Profile%20views&color=f97306&style=flat" alt="abinbn" /> </p>
+
+<!--
+<img align="right" alt="Coding" width="400" src="https://github.com/Abinbn/Abinbn/assets/82628577/83a92e29-facd-457a-8a4a-59f2da9aefa8">
+-->
 
 - 🔭 I’m currently working on an [Educational Website](https://eschoolbooks.s3.amazonaws.com/esb/index.html)
 
