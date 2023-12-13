@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Abin B N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -15,7 +15,9 @@
 
 - 🔭 I’m currently working on an [Educational Website](https://eschoolbooks.s3.amazonaws.com/esb/index.html)
 
-- 🌱 I’m currently learning **Biotechnology, Angularjs, Threejs, Illustration and 3D Modeling**
+- 🦁 Appointed as the C.T.O of [E-schoolbooks](https://www.eschoolbooks.in/thoth.html)
+
+- 🌱 I’m currently learning **Biotechnology, Immunology, Biochemistry, Angularjs, Threejs, Illustration and 3D Modeling**
 
 - 👯 I’m looking to collaborate on **both frontend and backend development**
 
