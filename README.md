@@ -1,8 +1,23 @@
 
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abin B N 
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Abin B N](https://gravatar.com/abinbn) 
 ================================================================================================================================
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5fjXHZQ7CaKj0Pgbvv/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/abinbn/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://instagram.com/abin_b_n">
+      <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/Abin_bn">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
 Web Designer and Biotechnologist
 --------------------------------
