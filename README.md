@@ -1,113 +1,104 @@
-
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Abin B N](https://gravatar.com/abinbn) 
-================================================================================================================================
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm [Abin B N](https://gravatar.com/abinbn)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5fjXHZQ7CaKj0Pgbvv/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/abinbn/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://instagram.com/abin_b_n">
-      <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
-    </a>
-    <a href="https://twitter.com/Abin_bn">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" alt="Banner" />
 </div>
 
-Web Designer and Biotechnologist
---------------------------------
+---
 
-I've been working @ Thoth since 2023 as CTO and contributed a major part of the company's development, I am also pursuing my masters in Biotechnology from University of Kerala, might pass out in 2025.
+### 🚀 Web Designer | Biotechnologist | CTO @Thoth
 
-* 🌍  I'm based in Kollam, Kerala
-* 🖥️  See my portfolio at [Abin](http://ab.in)
-* ✉️  You can contact me at [abinjannath007@gmail.com](mailto:abinjannath007@gmail.com)
-* 🚀  I'm currently working on [ESchoolBooks](http://www.eschoolbooks.in/webapp/thoth.html)
-* 🧠  I'm learning Biorobotics, Bioinformatics and UI designing
-* 🤝  I'm open to collaborating on any topics on biology & Web development.
-* ⚡  I'm currently doing 5 jobs 🥵💀
+🔭 **Currently working on:** [VArts World](https://www.varts.org/)  
+📚 **Studying:** Master's in Biotechnology (University of Kerala, 2025)  
+🎯 **Goals:** Collaborating on projects that merge biology and technology  
+💡 **Learning:** Biorobotics, Bioinformatics, UI Design  
+📍 **Location:** Kollam, Kerala  
+💌 **Contact me:** [abinjannath007@gmail.com](mailto:abinjannath007@gmail.com)  
+🌍 **Portfolio:** [abinbn.in](http://abinbn.in)
 
-<a href="https://www.github.com/Abinbn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Abinbn?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🔗 Connect with Me
 
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abinbn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abin_b_n" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
+  </a>
+<!--   <a href="https://twitter.com/Abin_bn" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> -->
+ <a href="https://codepen.io/Abinbn" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+ </a>
+<a href="https://www.github.com/Abinbn" target="_blank">
+ <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+</a>
+<a href="https://www.facebook.com/abin.jannath" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
+</a>
+<a href="http://www.medium.com/Abinbn" target="_blank">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+ </a>
+<a href="https://www.x.com/abin_bn" target="_blank">
+ <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+</a>
+<a href="https://www.threads.net/@abin_b_n" target="_blank">
+<img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=pink" alt="Threads Badge"/>
+</a>
+ <a href="https://www.behance.com/Abinbn" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-white?style=for-the-badge&logo=behance&logoColor=blue" alt="Behance Badge"/>
+ </a>
 </p>
 
+---
 
-### Socials
+### 💻 Skills & Tools
 
-<p align="left"> <a href="https://www.behance.com/Abinbn" target="_blank" rel="noreferrer"> 
-      <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.codepen.io/abinbn" target="_blank" rel="noreferrer"> 
-        <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/abinbn" target="_blank" rel="noreferrer"> 
-          <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/Abinbn" target="_blank" rel="noreferrer"> 
-            <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/abin.jannath" target="_blank" rel="noreferrer"> 
-              <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Abinbn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/abin_b_n" target="_blank" rel="noreferrer"> 
-                <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abin-b-n-3386bb189" target="_blank" rel="noreferrer"> 
-                  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/Abinbn" target="_blank" rel="noreferrer"> 
-                    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/18152831" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
-                    </picture> </a> <a href="https://www.x.com/abin_bn" target="_blank" rel="noreferrer"> 
-                      <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@abin_b_n" target="_blank" rel="noreferrer"> 
-                        <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/Abinbn"><img src="https://github-readme-stats.vercel.app/api?username=Abinbn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abinbn's GitHub stats" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinbn&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true" width="48%" alt="Abinbn's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinbn&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+</p>
 
-<a href="http://www.github.com/Abinbn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinbn&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<!--
-<a href="http://www.github.com/Abinbn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abinbn&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
+### 📂 Featured Repositories
 
-<a href="https://github.com/Abinbn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinbn&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/Abinbn/Grid-builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=Grid-builder&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true" width="45%" alt="Grid-builder" />
+  </a>
+  <a href="https://github.com/Abinbn/Github_Streaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=Github_Streaker&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true" width="45%" alt="Github_Streaker" />
+  </a>
+</p>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/Abinbn/Grid-builder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=Grid-builder&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Abinbn/e-schoolbooks.in" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=e-schoolbooks.in&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 💰 Support Me
 
-
-
-<div width="100%" align="center"><a href="https://github.com/Abinbn/Abinbn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=Abinbn&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Abinbn/Auto_video_pauser_player" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abinbn&repo=Auto_video_pauser_player&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-### Support Me 💰
-
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Abin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Abin" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  </a>
+</p>
