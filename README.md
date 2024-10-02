@@ -6,15 +6,15 @@
 
 ---
 
-### 🚀 Web Designer | Biotechnologist | CTO @Thoth
+### 🚀 Web Designer | Biotechnologist | CTO of VArts World Pvt Ltd
 
-🔭 **Currently working on:** [VArts World](https://www.varts.org/)  
-📚 **Studying:** Master's in Biotechnology (University of Kerala, 2025)  
-🎯 **Goals:** Collaborating on projects that merge biology and technology  
-💡 **Learning:** Biorobotics, Bioinformatics, UI Design  
-📍 **Location:** Kollam, Kerala  
-💌 **Contact me:** [abinjannath007@gmail.com](mailto:abinjannath007@gmail.com)  
-🌍 **Portfolio:** [abinbn.in](http://abinbn.in)
+- 🔭 **Currently working on:** [VArts World](https://www.varts.org/)  and [ESchoolBooks](eschoolbooks.in)
+- 📚 **Studying:** Master's in Biotechnology (University of Kerala, 2025)  
+- 🎯 **Goals:** Collaborating on projects that merge biology and technology 🔬+💻
+- 💡 **Learning:** Biorobotics, Bioinformatics, UI Design  🦾
+- 📍 **Location:** Kollam, Kerala  🇮🇳
+- 💌 **Contact me:** [abinjannath007@gmail.com](mailto:abinjannath007@gmail.com)  
+- 🌍 **Portfolio:** [abinbn.in](http://abinbn.in) 📰
 
 ---
 
